@@ -1,0 +1,9 @@
+/* src/Header.css */
+.header {
+    background-color: #2c3e5084;
+    backdrop-filter: 5px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  

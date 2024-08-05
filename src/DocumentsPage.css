@@ -1,0 +1,34 @@
+/* src/DocumentsPage.css */
+body{
+    background-image: url(./assets/back.jpg);
+    background-size: cover;
+}
+.documents-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+  }
+
+  
+  .documents-container .document-box {
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px 0;
+    background-color: #00000093;
+    backdrop-filter: 2px;
+    
+  }
+  
+  .documents-container a {
+    color: #ffbf01;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .documents-container :hover  {
+    background-color: #0000001c; ;
+    backdrop-filter: 6px;
+
+  }
+  
